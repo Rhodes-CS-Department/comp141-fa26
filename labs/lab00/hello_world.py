@@ -1,6 +1,6 @@
 # Author:
 # Class:
-# Lab #: Lab 00
+# Lab #: 
 # Pledge:
 # Description:
 
