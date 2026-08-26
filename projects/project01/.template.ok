@@ -1,0 +1,16 @@
+{
+  "name": "Project 01",
+  "endpoint": "<#endpoint#>/project01",
+  "src": [
+    "P1.ipynb",
+    "time_to_drop.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
