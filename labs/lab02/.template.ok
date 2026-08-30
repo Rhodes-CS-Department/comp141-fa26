@@ -1,6 +1,6 @@
 {
-  "name": "Lab 2",
-  "endpoint": "rhodes/comp141/sp21/lab02",
+  "name": "Lab 02",
+  "endpoint": "<#endpoint#>/lab02",
   "src": [
     "lab02.ipynb"
   ],
