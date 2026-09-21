@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> from pcalendar import *
+          >>> from cs1.notebooks import *
+          >>> reload_functions("pcalendar.py")
 
           >>> new_years_day(2019)
           2

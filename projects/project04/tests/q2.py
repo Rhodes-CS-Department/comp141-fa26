@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> from pcalendar import *
+          >>> from cs1.notebooks import *
+          >>> reload_functions("pcalendar.py")
 
           >>> magic_month(1)
           0

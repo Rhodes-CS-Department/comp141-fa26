@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> from pcalendar import *
+          >>> from cs1.notebooks import *
+          >>> reload_functions("pcalendar.py")
           >>> is_leap(2000)
           True
           >>> is_leap(1900)

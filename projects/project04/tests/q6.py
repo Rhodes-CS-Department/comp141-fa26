@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> from pcalendar import *
+          >>> from cs1.notebooks import *
+          >>> reload_functions("pcalendar.py")
 
           >>> day_of_week_str(7, 29, 2019)
           'Monday'
