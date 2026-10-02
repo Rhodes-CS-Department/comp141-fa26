@@ -9,7 +9,8 @@ from random import randint
 
 def draw_title():
     # draws the title screen, including the background color, the title, and perhaps a little drawing or logo
-    pass
+    # Remove this print statement when writing this function.
+    print("Drawing the title.")
 
 
 ## example. use it if you want, or make your own!
@@ -63,6 +64,7 @@ def take_turn(current_round, kernels, white_points):
     # draws the round
     
     # returns the score of this turn
+    # Keep this return statement -- take_turn has to hand its score back to play_game.
     return score
 
 
@@ -76,24 +78,28 @@ def draw_round(current_round, white_kernels, black_kernels):
     # draws all the black kernels in another row
 
     # hint: see Lab 5 graphics solutions for examples on spacing things using a for loop
-    pass
+    # Remove this print statement when writing this function.
+    print("Drawing the round.")
 
 
 def draw_kernel(x, y, color):
     # draws a single kernel of a given color at x, y
-    pass
+    # Remove this print statement when writing this function.
+    print("Drawing a kernel.")
 
 
 def draw_scores(score1, score2):
     # draw the scores at the bottom of the screen
-    pass
+    # Remove this print statement when writing this function.
+    print("Drawing the scores.")
 
 
 def draw_game_over(winner):
     # clears canvas
 
     # draws the winner of the game
-    pass
+    # Remove this print statement when writing this function.
+    print("Drawing the game over screen.")
 
 
 ## DO NOT MODIFY UNLESS YOU KNOW WHAT YOU'RE DOING
