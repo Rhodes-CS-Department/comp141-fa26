@@ -1,0 +1,16 @@
+{
+  "name": "Project 05",
+  "endpoint": "<#endpoint#>/project05",
+  "src": [
+    "P5.ipynb",
+    "tanchi_boska.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
