@@ -1,0 +1,7 @@
+Alice,Smith,1998
+Bob,Johnson,1982
+Carla,Martinez,2000
+Daniel,Williams,1988
+Emily,Davis,1999
+Frank,Morgan,1993
+Gertrude,Taylor,1982
