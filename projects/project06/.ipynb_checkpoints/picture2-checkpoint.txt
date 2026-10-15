@@ -1,0 +1,16 @@
+canvas 400 300
+jumpto 50 50
+dlineto 90 90
+jumpto 50 90
+dlineto 90 50
+jumpto 200 200
+dlineto 200 250
+dlineto 250 250
+dlineto 250 200
+dlineto 200 200
+jumpto 300 100
+dlineto 270 110
+dlineto 240 60
+dlineto 260 50
+dlineto 295 60
+dlineto 300 100

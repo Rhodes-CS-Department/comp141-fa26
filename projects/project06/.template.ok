@@ -1,0 +1,17 @@
+{
+  "name": "Project 6",
+  "endpoint": "<#endpoint#>/project06",
+  "src": [
+    "P6.ipynb",
+    "draw.py",
+    "picture_submit.txt"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

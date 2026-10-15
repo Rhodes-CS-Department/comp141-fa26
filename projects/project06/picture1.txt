@@ -1,0 +1,10 @@
+canvas 200 300
+jumpto 50 50
+lineto 90 90
+jumpto 50 90
+lineto 90 50
+jumpto 100 200
+lineto 100 250
+lineto 150 250
+lineto 150 200
+lineto 100 200
