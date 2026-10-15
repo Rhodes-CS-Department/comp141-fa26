@@ -1,0 +1,20 @@
+Patient Zero;Taylor Swift;1;2
+Choosin' Texas;Ella Langley;2;51
+Boston;Stella Lefty;6;27
+Been By Now;Morgan Wallen;7;11
+Solar Eclipse;Drake & Don Toliver;-1;1
+Dracula;Tame Impala & JENNIE;10;54
+Hate That I Made You Love Me;Ariana Grande;8;19
+Stupid Song;Olivia Rodrigo;9;17
+Nicole Kidman;ADELA;12;5
+BbY WOW;Karol G With Judeline & rusowsky;11;9
+Quebec;Drake;-1;1
+I Just Might;Bruno Mars;15;39
+Babydoll;Dominic Fike;17;35
+Risk It All;Bruno Mars;14;32
+Be Her;Ella Langley;16;34
+Last Thing You Need;Morgan Wallen;13;3
+Midnight Sun;Zara Larsson;18;38
+Cold Shoulder;Drake, Don Toliver & Yebba;-1;1
+Loving Life Again;Ella Langley;25;29
+Earrings;Malcolm Todd;23;32
