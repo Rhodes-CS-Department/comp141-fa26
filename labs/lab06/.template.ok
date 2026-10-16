@@ -1,8 +1,8 @@
 {
-  "name": "Lab 7",
-  "endpoint": "<#endpoint#>/lab07",
+  "name": "Lab 6",
+  "endpoint": "<#endpoint#>/lab06",
   "src": [
-    "lab07.ipynb"
+    "lab06.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
