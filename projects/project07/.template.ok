@@ -1,0 +1,16 @@
+{
+  "name": "Project 7",
+  "endpoint": "<#endpoint#>/project07",
+  "src": [
+    "P7.ipynb",
+    "garden.py"
+  ],
+  "tests": {
+
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
