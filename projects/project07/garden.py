@@ -1,8 +1,8 @@
-# Name:
-# Date: 
-# Class: 
-# Pledge:  
-# Description: 
+# Author: FILL IN
+# Class: COMP 141
+# Project: The Strange Garden
+# Pledge: FILL IN
+# Description: FILL IN
 
 # Returns the number of small plants (*) in this garden.
 # garden: a string containing a row of plants.
@@ -56,8 +56,9 @@ def run_garden_A(garden, generations):
     #     (be sure to capture the return value --- that's the next generation!).
     #   Call count_dormant and count_small on the next generation garden.
     #   Again, print the garden and the number of dormant and alive plants.
-    #   Put all of this in a loop to print numgens generations, not including the first.
-    #     (So if numgens = 30, there will be 31 lines of total output)
+    #   Put all of this in a loop to print the given number of generations, not
+    #     including the first.
+    #     (So if generations = 30, there will be 31 lines of total output)
 
     
 # Creates the next generation of a garden of Plant B from the current generation.
@@ -115,7 +116,9 @@ def main():
     #    s2 = "abc" * 5  # makes the string "abcabcabcabcabc" (5 copies of abc)
     
     # Now, call the correct function based on the plant type and the garden you
-    # just created.
+    # just created.  If the plant type is B, first ask the user for the
+    # neighborhood size with this prompt:
+    #    What is the neighborhood size?
 
     
 main()
