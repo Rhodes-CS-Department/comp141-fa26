@@ -1,0 +1,5 @@
+apples 100
+oranges 50
+peaches 75
+bananas 125
+pears 80
